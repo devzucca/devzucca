@@ -6,7 +6,7 @@ David Zuccarini</a></h1>
 <h3 align="center">Entrepreneur | Developer | Passionate about Technology </h3>
 
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+
 </a>
 <h1>🔭 Passionate about Technology & Entrepreneurship</h1>
   <p>My journey has been shaped by exploring various paths within the digital realm.</p>
