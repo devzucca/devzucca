@@ -28,7 +28,9 @@ David Zuccarini</a></h1>
     </li>
     <li>
       <strong>Academic Experience & Contest Participation:</strong>
-      <p>Started in Systems Engineering with a focus on Automation and Control.</p>
+      <p>Higher university technician in industrial relations</p>
+      <p>Started in Systems Engineering with a focus on Automation and Control.
+      </p>
       <p>Participated in notable events like Reto BlackBerry and received training in networks with Cisco's CCNA course, frontend & backend development, blockchain, and more.</p>
     </li>
     <li>
