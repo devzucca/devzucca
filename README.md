@@ -20,7 +20,7 @@ David Zuccarini</a></h1>
     <li>
       <strong>Electronic Repair & Software Development:</strong>
       <p>Specialized in microsoldering and repair of electronic devices, focusing on gaming consoles and mobile devices.</p>
-      <p>Proficient in eMMC memory programming and software tools for phone reprogramming, like octopus pro, z3x pro, chimera, miracle thunder, among other.</p>
+      <p>Proficient in eMMC memory programming and software tools for phone reprogramming, like octoplus pro, z3x pro, chimera, miracle thunder, among other.</p>
     </li>
     <li>
       <strong>Return to Programming World:</strong>
