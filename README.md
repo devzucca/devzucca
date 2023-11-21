@@ -32,6 +32,7 @@ David Zuccarini</a></h1>
       <p>Started in Systems Engineering with a focus on Automation and Control(This year, I resumed my university career, at a private university with a scholarship won, but I had to freeze due to workload)(not completed).
       </p>
       <p>Participated in notable events like Reto BlackBerry and received training in networks with Cisco's CCNA course, frontend & backend development, blockchain, and more.</p>
+      <p>self-taught, youtube courses, freeCodeCamp udemy and other interesting places.</p>
     </li>
     <li>
       <strong>Current Entrepreneurship:</strong>
