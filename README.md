@@ -128,6 +128,10 @@ David Zuccarini</a></h1>
   </a>
    &emsp;
   <a href="#" target="_blank">
+    <img alt="threedotjs" src="https://img.shields.io/badge/threedotjs-02569B?style=for-the-badge&logo=threedotjs&logoColor=white">
+  </a>
+   &emsp;
+  <a href="#" target="_blank">
     <img alt="react-native" src="https://img.shields.io/badge/react-native-02569B?style=for-the-badge&logo=react-native&logoColor=white"/>
   </a>
   &emsp;
