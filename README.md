@@ -177,7 +177,7 @@ David Zuccarini</a></h1>
 ### 👉 Software & Tools
 
 <p>
-  <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"></a>
+  <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-23486b?style=for-the-badge&logo=codepen&logoColor=white"></a>
   &emsp;
   <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-23486b?style=for-the-badge&logo=git&logoColor=white"></a>
   &emsp;
